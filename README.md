@@ -62,5 +62,6 @@ Data Storage
 
 ## Screenshots
 
-   (![image](https://github.com/user-attachments/assets/464e7b73-5928-474a-8df2-f19c2f8f23c0)
+   (![image](https://github.com/user-attachments/assets/ac86f412-801a-49e7-859b-e5642334bdfe)
+)
 )
